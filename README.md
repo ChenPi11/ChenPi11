@@ -45,7 +45,6 @@
 
 # Operating Systems That I Often Use
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows/)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 [![Deepin](https://img.shields.io/badge/Deepin-007CFF?style=for-the-badge&logo=deepin&logoColor=white)](https://www.deepin.org/index/zh)
 [![Mac OS](https://img.shields.io/badge/mac-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)](https://www.apple.com/macos/)
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
